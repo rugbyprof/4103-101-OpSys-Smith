@@ -6,7 +6,7 @@
 | 2   | Folder and files named correctly                  | 10      |    10    | ![Alt text][1] |
 | -   | ***Execution***                                   |         |          | ![Alt text][1] |
 | 3   | sum_args runs                                     | 10      |    10    | ![Alt text][1] |
-| 4   | sum_args output correct                           | 10      |    5     | ![Alt text][3] |
+| 4   | sum_args output correct                           | 10      |    10     | ![Alt text][1] |
 | 3   | myrandom runs                                     | 10      |     10   | ![Alt text][1] |
 | 4   | myrandom output correct                           | 10      |    10    | ![Alt text][1] |
 | 3   | versiona runs                                     | 10      |     10   | ![Alt text][1] |
